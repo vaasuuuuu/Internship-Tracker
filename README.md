@@ -1,4 +1,4 @@
-**Project name** - Internship Manager
+**Project name** - Internship Tracker
 
 Purpose:
 
